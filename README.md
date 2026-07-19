@@ -68,7 +68,7 @@ Currently Learning
 - Data Visualization Best Practices
 
 
-🎯 2026 Goals
+🎯 2026 Goals 
 
 -  Build 10+ Data Analytics Projects
 -  Master SQL
